@@ -1,0 +1,10 @@
+.user-card:hover {
+    background-color: #fff4e6 !important;
+}
+button{
+   background-color: #ffa94d;
+}
+
+button:hover{
+    background-color:#ff922b ;
+}
